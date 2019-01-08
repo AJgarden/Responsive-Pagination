@@ -1,3 +1,10 @@
+/*!
+ * rwdPage.js v0.1901
+ * @copyright 2019 AJgarden
+ * ##### Author: Jia #####
+ * ##### Update: 2019/01/08 #####
+ */
+
 $.fn.rwdPage = function(options) {
   var $selector = $(this);
 
